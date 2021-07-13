@@ -16,6 +16,13 @@
   width: 50%;
 }
 
+.center-small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
 [data-icon]:before {
 	font-family: 'ElegantIcons';
 	content: attr(data-icon);
